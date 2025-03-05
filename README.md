@@ -1,4 +1,4 @@
-# NOME do Projeto
+# Nome do Projeto
 Descrição do projeto.
 
 ## Como usar
