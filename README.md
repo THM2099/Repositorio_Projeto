@@ -2,7 +2,7 @@
 Este é um exemplo de projeto para ilustrar a criação de um repositório no GitHub.
 
 ## Como usar
-1. Clone este repositório: git clone https://github.com/seu-usuario/repositorio.git
+1. Clone este repositório: git clone https://github.com/THM2099/repositorio.git
 2. Navegue até o diretório: cd repositorio
 3. Execute o projeto conforme as instruções específicas do seu projeto.
 
