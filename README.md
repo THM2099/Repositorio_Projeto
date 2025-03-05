@@ -1,2 +1,8 @@
-Siga estes passos para ativar o programa.
-instale o arquivo CD.exe
+# NOME do Projeto
+Descrição do projeto.
+
+## Como usar
+Instruções de uso do projeto.
+
+##Contribuições 
+Como contribuir para o projeto.
